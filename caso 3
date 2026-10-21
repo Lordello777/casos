@@ -1,0 +1,18 @@
+
+<table>
+  <caption>Cronograma de aulas</caption>
+  <thead>
+    <tr>
+      <th scope="col">Horário</th>
+      <th scope="col">Segunda</th>
+      <th scope="col">Terça</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">08h</th>
+      <td>HTML</td>
+      <td>CSS</td>
+    </tr>
+  </tbody>
+</table>
